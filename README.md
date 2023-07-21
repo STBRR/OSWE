@@ -24,9 +24,9 @@ All my notes / scripts / exploits for OSWE study
   * [x] 4.5.2.2 Exercise - Recreate Type Juggling Attack
   * [x] 4.5.2.3 Extra Mile - Compromise account without updating the Email
 * [ ] ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE
-  * [ ] 5.2.6.1 Exercises - Regex, Blind SQL & Character Limitations
-  * [ ] 5.4.1.1 Exercise - Python PoC
-  * [ ] 5.5.1.1 Exercise - Writing files via. COPY TO
+  * [x] 5.2.6.1 Exercises - Regex, Blind SQL & Character Limitations
+  * [x] 5.4.1.1 Exercise - Python PoC
+  * [x] 5.5.1.1 Exercise - Writing files via. COPY TO
   * [ ] 5.5.2.2 Exercises - VBS Attack
   * [ ] 5.5.2.3 Extra Mile - Additional Attack Vector
   * [ ] 5.6.3.1 Exercise - Recreate DLL attack to spawn calc.exe
