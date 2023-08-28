@@ -37,9 +37,11 @@ All my notes / scripts / exploits for OSWE study
   * [x] 6.5.1.1 - Exercise - Recreate NodeJS Command Injection Reverse Shell
   * [ ] 6.5.1.2 - Extra Mile - Hardened Version of Bassmaster Application
 * [ ] DotNetNuke Cookie Deserialization RCE
-  * [ ] 7.1.2.1 - Exercise - Visual Studio Solutions
-  * [ ] 7.1.3.1 - Exercise - An overview of Deserialization
-  * [ ] 7.1.4.1 - Exercise - Deserialize to Notepad.exe
+  * [x] 7.1.2.1 - Exercise - Visual Studio Solutions
+  * [x] 7.1.3.1 - Exercise - An overview of Deserialization
+  * [x] 7.1.4.1 - Exercise - Deserialize to Notepad.exe (Watch your Type, Dude)
+  * [x] 7.2.2.1 - Exercise - Assembly Attribute Modification
+  * [x] 7.2.3.2 - Exercise - Setting Breakpoints!
 * [ ] ERPNext Authentication Bypass and Server Side Template Injection
 * [ ] openCRX Authentication Bypass and Remote Code Execution
 * [ ] openITCOCKPIT XSS and OS Command Injection - Blackbox
