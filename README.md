@@ -2,53 +2,70 @@
 All my notes / scripts / exploits for OSWE study
 
 ## Course
-* [x] Introduction
-* [x] Tools & Methodologies
+* [x] **Introduction**
+* [x] **Tools & Methodologies**
   * [x] 2.1.5.2 Exercises - Burp Suite Introduction
   * [x] 2.2.1.2 Exercises - HTTP Request Interception
   * [x] 2.3.2.2 Exercise - Source Code Recovery (Java & .NET)
   * [x] 2.5.1.2 Exercises - Remote Debugging in VSCode
-* [x] ATutor Authentication Bypass and RCE
+* [x] **ATutor Authentication Bypass and RCE**
   * [x] 3.2.1.1 Exercises - Initial Vulnerability Discovery
   * [x] 3.5.2.1 Exercises - MySQL Version Extraction
-  * [x] 3.5.2.1 Extra Mile - Alternate Path Discovery
+  * [x] 3.5.2.1 **Extra Mile** - Alternate Path Discovery
   * [x] 3.6.1.1 Exercise - Data Exfiltration
-  * [x] 3.6.1.2 Extra Mile - Extract Admin Password Hash
+  * [x] 3.6.1.2 **Extra Mile** - Extract Admin Password Hash
   * [x] 3.7.1.1 Exercise - Authentication Bypass
-  * [ ] 3.7.1.2 Extra Mile - Is there another Authentication Bypass?
+  * [ ] 3.7.1.2 **Extra Mile** - Is there another Authentication Bypass?
   * [x] 3.8.1.2 Exercise - Bypassing File Upload Restrictions
   * [x] 3.9.4.1 Exercises - Gaining Remote Code Execution
-  * [x] 3.9.4.2 Extra Mile - Writing an Exploit!
-* [x] ATutor LMS Type Juggling Vulnerability
+  * [x] 3.9.4.2 **Extra Mile** - Writing an Exploit!
+* [x] **ATutor LMS Type Juggling Vulnerability**
   * [x] 4.3.1.1 Exercise - String Conversions & Comparisions
   * [x] 4.5.2.2 Exercise - Recreate Type Juggling Attack
-  * [x] 4.5.2.3 Extra Mile - Compromise account without updating the Email
-* [x] ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE
+  * [x] 4.5.2.3 **Extra Mile** - Compromise account without updating the Email
+* [x] **ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE**
   * [x] 5.2.6.1 Exercises - Regex, Blind SQL & Character Limitations
   * [x] 5.4.1.1 Exercise - Python PoC
   * [x] 5.5.1.1 Exercise - Writing files via. COPY TO
   * [x] 5.5.2.2 Exercises - VBS Attack
-  * [ ] 5.5.2.3 Extra Mile - Additional Attack Vector
-  * [x] 5.6.3.1 Exercise - Recreate DLL attack to spawn calc.exe
+  * [ ] 5.5.2.3 **Extra Mile** - Additional Attack Vector
+  * [x] 5.6.3.1 Exercise - Recreate DLL attack -> UDF Function -> Calc!
   * [x] 5.7.1.1 Exercise - UDF Reverse Shell
   * [x] 5.8.2.1 Exercise - PG_LARGEOBJECT Reverse Shell
-  * [x] 5.8.2.2 Extra Mile - SQL Injection / Large Object / Retreive LOID
-* [ ] Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability
+  * [x] 5.8.2.2 **Extra Mile** - SQL Injection / Large Object / Retreive LOID
+* [ ] **Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability**
   * [x] 6.5.1.1 - Exercise - Recreate NodeJS Command Injection Reverse Shell
-  * [ ] 6.5.1.2 - Extra Mile - Hardened Version of Bassmaster Application
-* [ ] DotNetNuke Cookie Deserialization RCE
+  * [ ] 6.5.1.2 - **Extra Mile** - Hardened Version of Bassmaster Application
+* [ ] **DotNetNuke Cookie Deserialization RCE**
   * [x] 7.1.2.1 - Exercise - Visual Studio Solutions
   * [x] 7.1.3.1 - Exercise - An overview of Deserialization
   * [x] 7.1.4.1 - Exercise - Deserialize to Notepad.exe (Watch your Type, Dude)
   * [x] 7.2.2.1 - Exercise - Assembly Attribute Modification
   * [x] 7.2.3.2 - Exercise - Setting Breakpoints!
-* [ ] ERPNext Authentication Bypass and Server Side Template Injection
-* [ ] openCRX Authentication Bypass and Remote Code Execution
-* [ ] openITCOCKPIT XSS and OS Command Injection - Blackbox
-* [ ] Concord Authentication Bypass to RCE
-* [ ] Server-Side Request Forgery
-* [ ] Guacamole Lite Prototype Pollution
-* [ ] Conclusion
+  * [ ] 7.3.3.1 - Exercises - Follow Execution Path within Debugging Envrionment
+  * [ ] 7.3.5.1 - Exericse - Check Payload is Working
+  * [ ] 7.4.1.2 - Exercise - Reverse Shell & Info Disclosure
+  * [ ] 7.4.1.4 - **Extra Mile** - Java Deserialisation
+* [ ] **ERPNext Authentication Bypass and Server Side Template Injection**
+  * [ ] 8.1.1.1 - Exercise - Configure SMTP Service
+  * [ ] 8.1.2.2 - Exercise - Configure Remote Debugging
+  * [ ] 8.1.3.1 - Exercise - Configure MariaDB Logging
+  * [ ] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
+  * [ ] 8.3.1.2 - Exercises - SQL Injection! - from a blackbox perspective?
+  * [ ] 8.4.2.1 - Exercises - Authenticaton Bypass and much more...
+  * [ ] 8.5.2.2 - Exercise - Discovering SSTI
+  * [ ] 8.5.2.3 - **Extra Mile** - Discover another location for SSTI
+  * [ ] 8.5.3.1 - Exericse - Rendering the 'class'
+  * [ ] 8.5.3.2 - **Extra Mile** - Bypassing Jinja filters
+  * [ ] 8.6.1.1 - Exercises - Discovering Popen and more
+  * [ ] 8.6.2.1 - Exercises - Obtaining code execution
+  * [ ] 8.6.2.2 - **Extra Mile** - Documentation and Template modification
+* [ ] **openCRX Authentication Bypass and Remote Code Execution**
+* [ ] **openITCOCKPIT XSS and OS Command Injection - Blackbox**
+* [ ] **Concord Authentication Bypass to RCE**
+* [ ] **Server-Side Request Forgery**
+* [ ] **Guacamole Lite Prototype Pollution**
+* [ ] **Conclusion**
 
 ## Extra Lab Machines
 * [ ] Answers
