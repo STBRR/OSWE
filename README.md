@@ -23,7 +23,7 @@ All my notes / scripts / exploits for OSWE study
   * [x] 4.3.1.1 Exercise - String Conversions & Comparisions
   * [x] 4.5.2.2 Exercise - Recreate Type Juggling Attack
   * [x] 4.5.2.3 **Extra Mile** - Compromise account without updating the Email
-* [x] **ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE**
+* [ ] **ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE**
   * [x] 5.2.6.1 Exercises - Regex, Blind SQL & Character Limitations
   * [x] 5.4.1.1 Exercise - Python PoC
   * [x] 5.5.1.1 Exercise - Writing files via. COPY TO
@@ -47,11 +47,11 @@ All my notes / scripts / exploits for OSWE study
   * [ ] 7.4.1.2 - Exercise - Reverse Shell & Info Disclosure
   * [ ] 7.4.1.4 - **Extra Mile** - Java Deserialisation
 * [ ] **ERPNext Authentication Bypass and Server Side Template Injection**
-  * [ ] 8.1.1.1 - Exercise - Configure SMTP Service
-  * [ ] 8.1.2.2 - Exercise - Configure Remote Debugging
-  * [ ] 8.1.3.1 - Exercise - Configure MariaDB Logging
-  * [ ] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
-  * [ ] 8.3.1.2 - Exercises - SQL Injection! - from a blackbox perspective?
+  * [x] 8.1.1.1 - Exercise - Configure SMTP Service
+  * [x] 8.1.2.2 - Exercise - Configure Remote Debugging
+  * [x] 8.1.3.1 - Exercise - Configure MariaDB Logging
+  * [x] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
+  * [x] 8.3.1.2 - Exercises - SQL Injection! - from a blackbox perspective?
   * [ ] 8.4.2.1 - Exercises - Authenticaton Bypass and much more...
   * [ ] 8.5.2.2 - Exercise - Discovering SSTI
   * [ ] 8.5.2.3 - **Extra Mile** - Discover another location for SSTI
@@ -59,8 +59,20 @@ All my notes / scripts / exploits for OSWE study
   * [ ] 8.5.3.2 - **Extra Mile** - Bypassing Jinja filters
   * [ ] 8.6.1.1 - Exercises - Discovering Popen and more
   * [ ] 8.6.2.1 - Exercises - Obtaining code execution
-  * [ ] 8.6.2.2 - **Extra Mile** - Documentation and Template modification
+  * [ ] 8.6.2.2 - **Extra Mile** - Template Modification to Display
 * [ ] **openCRX Authentication Bypass and Remote Code Execution**
+  * [ ] 9.2.1.1 - Exercises - JShell & SecureRandom
+  * [ ] 9.2.4.1 - Exericses - OpenCRXToken Class & Token Generation
+  * [ ] 9.2.4.2 - **Extra Mile** - Token Generator (Added CLI Parameters)
+  * [ ] 9.2.5.2 - Exericses - Resetting Account Passwords
+  * [ ] 9.2.5.3 - **Extra Mile** - Password Reset Attack Chain
+  * [ ] 9.3.6.2 - Exercises - XXE with a hint of XXE
+  * [ ] 9.3.6.3 - **Extra Mile** - Parsing XXE Script
+  * [ ] 9.3.8.1 - Exercise - Reading XML files with 'Wrapper'
+  * [ ] 9.3.9.2 - Exercise - Connecting to HSQLDB Service
+  * [ ] 9.4.1.1 - Exercises - Writing Files to Disk with some more XXE
+  * [ ] 9.4.2.1 - Exercise - Discovering JSP files with XXE
+  * [ ] 9.4.3.1 - Exercises - Shells!!!!
 * [ ] **openITCOCKPIT XSS and OS Command Injection - Blackbox**
 * [ ] **Concord Authentication Bypass to RCE**
 * [ ] **Server-Side Request Forgery**
