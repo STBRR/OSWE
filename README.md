@@ -28,7 +28,7 @@ All my notes / scripts / exploits for OSWE study
   * [x] 5.4.1.1 Exercise - Python PoC
   * [x] 5.5.1.1 Exercise - Writing files via. COPY TO
   * [x] 5.5.2.2 Exercises - VBS Attack
-  * [ ] 5.5.2.3 **Extra Mile** - Additional Attack Vector
+  * [ ] 5.5.2.3 **Extra Mile** - Additional Attack Vector (Deserialization)
   * [x] 5.6.3.1 Exercise - Recreate DLL attack -> UDF Function -> Calc!
   * [x] 5.7.1.1 Exercise - UDF Reverse Shell
   * [x] 5.8.2.1 Exercise - PG_LARGEOBJECT Reverse Shell
@@ -42,23 +42,23 @@ All my notes / scripts / exploits for OSWE study
   * [x] 7.1.4.1 - Exercise - Deserialize to Notepad.exe (Watch your Type, Dude)
   * [x] 7.2.2.1 - Exercise - Assembly Attribute Modification
   * [x] 7.2.3.2 - Exercise - Setting Breakpoints!
-  * [ ] 7.3.3.1 - Exercises - Follow Execution Path within Debugging Envrionment
-  * [ ] 7.3.5.1 - Exericse - Check Payload is Working
-  * [ ] 7.4.1.2 - Exercise - Reverse Shell & Info Disclosure
-  * [ ] 7.4.1.4 - **Extra Mile** - Java Deserialisation
+  * [x] 7.3.3.1 - Exercises - Follow Execution Path within Debugging Envrionment
+  * [x] 7.3.5.1 - Exericse - Check Payload is Working
+  * [x] 7.4.1.2 - Exercise - Reverse Shell & Info Disclosure
+  * [ ] 7.4.1.4 - **Extra Mile** - Completing the Java Deserialisation in ManageEngine
 * [ ] **ERPNext Authentication Bypass and Server Side Template Injection**
   * [x] 8.1.1.1 - Exercise - Configure SMTP Service
   * [x] 8.1.2.2 - Exercise - Configure Remote Debugging
   * [x] 8.1.3.1 - Exercise - Configure MariaDB Logging
-  * [x] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
+  * [] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
   * [x] 8.3.1.2 - Exercises - SQL Injection! - from a blackbox perspective?
   * [ ] 8.4.2.1 - Exercises - Authenticaton Bypass and much more...
   * [ ] 8.5.2.2 - Exercise - Discovering SSTI
   * [ ] 8.5.2.3 - **Extra Mile** - Discover another location for SSTI
   * [ ] 8.5.3.1 - Exericse - Rendering the 'class'
-  * [ ] 8.5.3.2 - **Extra Mile** - Bypassing Jinja filters
-  * [ ] 8.6.1.1 - Exercises - Discovering Popen and more
-  * [ ] 8.6.2.1 - Exercises - Obtaining code execution
+  * [x] 8.5.3.2 - **Extra Mile** - Bypassing Jinja filters
+  * [x] 8.6.1.1 - Exercises - Discovering Popen and more
+  * [x] 8.6.2.1 - Exercises - Obtaining code execution
   * [ ] 8.6.2.2 - **Extra Mile** - Template Modification to Display
 * [ ] **openCRX Authentication Bypass and Remote Code Execution**
   * [ ] 9.2.1.1 - Exercises - JShell & SecureRandom
