@@ -50,16 +50,16 @@ All my notes / scripts / exploits for OSWE study
   * [x] 8.1.1.1 - Exercise - Configure SMTP Service
   * [x] 8.1.2.2 - Exercise - Configure Remote Debugging
   * [x] 8.1.3.1 - Exercise - Configure MariaDB Logging
-  * [] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
+  * [x] 8.2.3.2 - Exercise - Hunting for Whitelisted, guest-allowed functions
   * [x] 8.3.1.2 - Exercises - SQL Injection! - from a blackbox perspective?
-  * [ ] 8.4.2.1 - Exercises - Authenticaton Bypass and much more...
-  * [ ] 8.5.2.2 - Exercise - Discovering SSTI
+  * [x] 8.4.2.1 - Exercises - Authenticaton Bypass and much more...
+  * [x] 8.5.2.2 - Exercise - Discovering SSTI
   * [ ] 8.5.2.3 - **Extra Mile** - Discover another location for SSTI
-  * [ ] 8.5.3.1 - Exericse - Rendering the 'class'
+  * [x] 8.5.3.1 - Exericse - Rendering the 'class'
   * [x] 8.5.3.2 - **Extra Mile** - Bypassing Jinja filters
   * [x] 8.6.1.1 - Exercises - Discovering Popen and more
   * [x] 8.6.2.1 - Exercises - Obtaining code execution
-  * [ ] 8.6.2.2 - **Extra Mile** - Template Modification to Display
+  * [ ] 8.6.2.2 - **Extra Mile** - Template Modification to Display Output
 * [ ] **openCRX Authentication Bypass and Remote Code Execution**
   * [ ] 9.2.1.1 - Exercises - JShell & SecureRandom
   * [ ] 9.2.4.1 - Exericses - OpenCRXToken Class & Token Generation
