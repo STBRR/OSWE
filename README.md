@@ -60,24 +60,73 @@ All my notes / scripts / exploits for OSWE study
   * [x] 8.6.1.1 - Exercises - Discovering Popen and more
   * [x] 8.6.2.1 - Exercises - Obtaining code execution
   * [x] 8.6.2.2 - **Extra Mile** - Template Modification to Display Output
-* [ ] **openCRX Authentication Bypass and Remote Code Execution**
-  * [ ] 9.2.1.1 - Exercises - JShell & SecureRandom
-  * [ ] 9.2.4.1 - Exericses - OpenCRXToken Class & Token Generation
-  * [ ] 9.2.4.2 - **Extra Mile** - Token Generator (Added CLI Parameters)
-  * [ ] 9.2.5.2 - Exericses - Resetting Account Passwords
-  * [ ] 9.2.5.3 - **Extra Mile** - Password Reset Attack Chain
-  * [ ] 9.3.6.2 - Exercises - XXE with a hint of XXE
-  * [ ] 9.3.6.3 - **Extra Mile** - Parsing XXE Script
-  * [ ] 9.3.8.1 - Exercise - Reading XML files with 'Wrapper'
-  * [ ] 9.3.9.2 - Exercise - Connecting to HSQLDB Service
-  * [ ] 9.4.1.1 - Exercises - Writing Files to Disk with some more XXE
-  * [ ] 9.4.2.1 - Exercise - Discovering JSP files with XXE
-  * [ ] 9.4.3.1 - Exercises - Shells!!!!
+* [x] **openCRX Authentication Bypass and Remote Code Execution**
+  * [x] 9.2.1.1 - Exercises - Playing with JShell & SecureRandom
+  * [x] 9.2.4.1 - Exericses - OpenCRXToken Class & Token Generation
+  * [x] 9.2.4.2 - **Extra Mile** - Token Generator (Added CLI Parameters)
+  * [x] 9.2.5.2 - Exericses - Resetting Account Passwords
+  * [x] 9.2.5.3 - **Extra Mile** - Password Reset Attack Chain
+  * [x] 9.3.6.2 - Exercises - XXE with a hint of XXE
+  * [x] 9.3.6.3 - **Extra Mile** - Parsing XXE Script
+  * [x] 9.3.8.1 - Exercise - Reading XML files with 'Wrapper'
+  * [x] 9.3.9.2 - Exercise - Connecting to HSQLDB Service
+  * [x] 9.4.1.1 - Exercises - Writing Files to Disk with some more XXE
+  * [x] 9.4.2.1 - Exercise - Discovering JSP files with XXE
+  * [x] 9.4.3.1 - Exercises - Shells!!!!
 * [ ] **openITCOCKPIT XSS and OS Command Injection - Blackbox**
+  * [x] 10.5.1.1 Exercise - Discover DOM XSS
+  * [x] 10.6.2.1 Exercises - Rewrite the DOM
+  * [ ] 10.6.2.2 **Extra Mile** - Crafting a fake login page
+  * [ ] 10.6.3.1 Exercises - Adding functions to our exploit
+  * [ ] 10.6.4.1 Exercise - XSS Exploitation (First run of the exploit!)
+  * [ ] 10.6.4.2 **Extra Mile** - Capturing and Storing Cookies 
+  * [ ] 10.6.5.1 Exercises - Perfecting our XSS exploit
+  * [ ] 10.6.5.2 **Extra Mile** - Capturing Sensitive Values & JS Keylogger
+  * [ ] 10.6.6.1 Exercise - Dumping the Database Contents
+  * [ ] 10.7.4.2 Exercise - Fuzzing WebSockets
+  * [ ] 10.7.5.1 Exercises - Finding disallowed Characters & RCE
+  * [ ] 10.7.6.1 Exercises - Bypass the filter and get a shell
+  * [ ] 10.7.6.2 **Extra Mile** - Full XSS Exploit Chain & Custom Commands
 * [ ] **Concord Authentication Bypass to RCE**
+  * [ ] 11.2.2.2 Exericses - Viewing CORS Configuration
+  * [ ] 11.2.5.1 Exericses - RCE in Concord (Python & Ruby)
+  * [ ] 11.2.5.2 **Extra Miles** - Exploiting a newer version of Concord
+  * [ ] 11.3.1.1 Exercises - API Information and RCE via. cURL
+  * [ ] 11.3.1.2 **Extra Mile** - Backdooring Concord with a new User via. API Key
 * [ ] **Server-Side Request Forgery**
+  * [ ] 12.3.1.1 Exercise - Finding your first SSRF
+  * [ ] 12.3.2.1 Exercise - Discovering Endpoints
+  * [ ] 12.3.2.2 **Extra Mile** - Explaning with more HTTP methods
+  * [ ] 12.4.1.1 Exercise - Blind SSRF
+  * [ ] 12.4.2.1 **Extra Mile** - Why can't the SSRF exploited?
+  * [ ] 12.4.3.1 Exercises - SSRF'ing into Internal Infrastructure
+  * [ ] 12.4.4.1 Exericses - Port Scanning with SSRF
+  * [ ] 12.4.4.2 **Extra Mile** - SSRF / Port Scan Automation
+  * [ ] 12.4.5.2 Exercises - Gateway Scanning
+  * [ ] 12.4.5.3 **Extra Mile** - Hostname Enumeration Automation
+  * [ ] 12.4.6.2 Exercises - Internal Enumeration Automation
+  * [ ] 12.5.1.1 Exercises - Full SSRF Scanning Script
+  * [ ] 12.6.1.1 Exercise - Exploiting Headless Browsers
+  * [ ] 12.6.2.1 Exercise - Exploiting Headless Chrome w/ JavaScript
+  * [ ] 12.6.2.2 **Extra Mile** - Avoiding Data Truncation
+  * [ ] 12.6.3.1 Exercises - Stealing API Keys
+  * [ ] 12.6.3.2 **Extra Mile** - Writing your own web server
+  * [ ] 12.7.1.1 Exercise - Full RCE in KongAPI
+  * [ ] 12.7.1.2 **Extra Mile** - Upgrade to a full shell and identify sensitive data
 * [ ] **Guacamole Lite Prototype Pollution**
-* [ ] **Conclusion**
+  * [ ] 13.1.2.1 Exercises - Reconfiguring the lab & Reviewing JS
+  * [ ] 13.1.3.1 Exercise - Configure Remote Debugging
+  * [ ] 13.2.3.1 Exercise - Polluting a JS object
+  * [ ] 13.2.4.1 Exercise - Debugging the application and observing a crash
+  * [ ] 13.2.4.2 **Extra Miles** - Finding another value & directory traversal
+  * [ ] 13.4.1.1 Exercises - Debugging of EJS
+  * [ ] 13.4.2.1 Exercises - Obtaining a Shell via. Prototype Pollution
+  * [ ] 13.4.2.2 **Extra Mile** - Polluting the Escape Variable
+  * [ ] 13.5.1.2 Exercises - Handlebars RCE & XSS
+  * [ ] 13.5.1.3 **Extra Mile** - Pug templating engine with XSS
+  * [ ] 13.5.2.1 Exercises - Debugging the exploit
+  * [ ] 13.5.2.2 **Extra Mile** - Creating a full RCE exploit chain
+* [ ]  **Conclusion**
 
 ## Extra Lab Machines
 * [ ] Answers
