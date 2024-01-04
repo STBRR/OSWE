@@ -1,7 +1,7 @@
-# OSWE / Advanced Web Attacks & Exploitation
+# OSWE / Advanced Web Attacks & Exploitation (AWAE)
 All my notes / scripts / exploits for OSWE study
 
-## Course
+## Course Content
 * [x] **Introduction**
 * [x] **Tools & Methodologies**
   * [x] 2.1.5.2 Exercises - Burp Suite Introduction
@@ -76,20 +76,20 @@ All my notes / scripts / exploits for OSWE study
 * [ ] **openITCOCKPIT XSS and OS Command Injection - Blackbox**
   * [x] 10.5.1.1 Exercise - Discover DOM XSS
   * [x] 10.6.2.1 Exercises - Rewrite the DOM
-  * [ ] 10.6.2.2 **Extra Mile** - Crafting a fake login page
-  * [ ] 10.6.3.1 Exercises - Adding functions to our exploit
-  * [ ] 10.6.4.1 Exercise - XSS Exploitation (First run of the exploit!)
+  * [x] 10.6.2.2 **Extra Mile** - Crafting a fake login page
+  * [x] 10.6.3.1 Exercises - Adding functions to our exploit
+  * [x] 10.6.4.1 Exercise - XSS Exploitation (First run of the exploit!)
   * [ ] 10.6.4.2 **Extra Mile** - Capturing and Storing Cookies 
-  * [ ] 10.6.5.1 Exercises - Perfecting our XSS exploit
+  * [x] 10.6.5.1 Exercises - Perfecting our XSS exploit
   * [ ] 10.6.5.2 **Extra Mile** - Capturing Sensitive Values & JS Keylogger
-  * [ ] 10.6.6.1 Exercise - Dumping the Database Contents
+  * [x] 10.6.6.1 Exercise - Dumping the Database Contents
   * [ ] 10.7.4.2 Exercise - Fuzzing WebSockets
   * [ ] 10.7.5.1 Exercises - Finding disallowed Characters & RCE
   * [ ] 10.7.6.1 Exercises - Bypass the filter and get a shell
   * [ ] 10.7.6.2 **Extra Mile** - Full XSS Exploit Chain & Custom Commands
 * [ ] **Concord Authentication Bypass to RCE**
-  * [ ] 11.2.2.2 Exericses - Viewing CORS Configuration
-  * [ ] 11.2.5.1 Exericses - RCE in Concord (Python & Ruby)
+  * [x] 11.2.2.2 Exericses - Viewing CORS Configuration
+  * [ ] 11.2.5.1 Exericses - RCE in Concord (Python & Ruby Exploits)
   * [ ] 11.2.5.2 **Extra Miles** - Exploiting a newer version of Concord
   * [ ] 11.3.1.1 Exercises - API Information and RCE via. cURL
   * [ ] 11.3.1.2 **Extra Mile** - Backdooring Concord with a new User via. API Key
