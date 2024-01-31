@@ -94,22 +94,22 @@ All my notes / scripts / exploits for OSWE study
   * [ ] 11.3.1.1 Exercises - API Information and RCE via. cURL
   * [ ] 11.3.1.2 **Extra Mile** - Backdooring Concord with a new User via. API Key
 * [ ] **Server-Side Request Forgery**
-  * [ ] 12.3.1.1 Exercise - Finding your first SSRF
-  * [ ] 12.3.2.1 Exercise - Discovering Endpoints
-  * [ ] 12.3.2.2 **Extra Mile** - Explaning with more HTTP methods
-  * [ ] 12.4.1.1 Exercise - Blind SSRF
+  * [x] 12.3.1.1 Exercise - Finding your first SSRF
+  * [x] 12.3.2.1 Exercise - Discovering Endpoints
+  * [x] 12.3.2.2 **Extra Mile** - Explaning with more HTTP methods
+  * [x] 12.4.1.1 Exercise - Blind SSRF
   * [ ] 12.4.2.1 **Extra Mile** - Why can't the SSRF exploited?
-  * [ ] 12.4.3.1 Exercises - SSRF'ing into Internal Infrastructure
-  * [ ] 12.4.4.1 Exericses - Port Scanning with SSRF
-  * [ ] 12.4.4.2 **Extra Mile** - SSRF / Port Scan Automation
-  * [ ] 12.4.5.2 Exercises - Gateway Scanning
+  * [x] 12.4.3.1 Exercises - SSRF'ing into Internal Infrastructure
+  * [x] 12.4.4.1 Exericses - Port Scanning with SSRF
+  * [x] 12.4.4.2 **Extra Mile** - SSRF / Port Scan Automation
+  * [x] 12.4.5.2 Exercises - Gateway Scanning
   * [ ] 12.4.5.3 **Extra Mile** - Hostname Enumeration Automation
-  * [ ] 12.4.6.2 Exercises - Internal Enumeration Automation
-  * [ ] 12.5.1.1 Exercises - Full SSRF Scanning Script
-  * [ ] 12.6.1.1 Exercise - Exploiting Headless Browsers
-  * [ ] 12.6.2.1 Exercise - Exploiting Headless Chrome w/ JavaScript
-  * [ ] 12.6.2.2 **Extra Mile** - Avoiding Data Truncation
-  * [ ] 12.6.3.1 Exercises - Stealing API Keys
+  * [x] 12.4.6.2 Exercises - Internal Enumeration Automation
+  * [x] 12.5.1.1 Exercises - Full SSRF Scanning Script
+  * [x] 12.6.1.1 Exercise - Exploiting Headless Browsers
+  * [x] 12.6.2.1 Exercise - Exploiting Headless Chrome w/ JavaScript
+  * [x] 12.6.2.2 **Extra Mile** - Avoiding Data Truncation
+  * [x] 12.6.3.1 Exercises - Stealing API Keys
   * [ ] 12.6.3.2 **Extra Mile** - Writing your own web server
   * [ ] 12.7.1.1 Exercise - Full RCE in KongAPI
   * [ ] 12.7.1.2 **Extra Mile** - Upgrade to a full shell and identify sensitive data
