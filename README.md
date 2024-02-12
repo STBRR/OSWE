@@ -2,10 +2,10 @@
 All my notes / scripts / exploits for OSWE study
 
 ## Timeline
-08/02/2024: Start of Exam
-10/02/2024: End of Exam
-11/02/2024: Report Submission
-12/02/2024: Received Pass Email! 🥳
+- 08/02/2024: Start of Exam
+- 10/02/2024: End of Exam
+- 11/02/2024: Report Submission
+- 12/02/2024: Received Pass Email! 🥳
 
 ## Course Content
 * [x] **Introduction**
